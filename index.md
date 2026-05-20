@@ -5,7 +5,6 @@ permalink: /
 header:
   overlay_image: /assets/images/header.png
   overlay_filter: 0.4
-  caption: "Singular Learning Theory Days"
 # excerpt: "A conference on singular learning theory."
 ---
 
