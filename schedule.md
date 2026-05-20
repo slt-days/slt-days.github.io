@@ -4,30 +4,32 @@ title: "Schedule"
 permalink: /schedule/
 ---
 
-The schedule is preliminary and subject to change.
+The schedule is preliminary and subject to change. Further details will be announced closer to the conference.
 
-## Day 1 — [Date]
-
-| Time | Event |
-|---|---|
-| 09:00–09:30 | Registration and coffee |
-| 09:30–10:00 | Opening |
-| 10:00–11:00 | Invited talk |
-| 11:00–11:30 | Coffee break |
-| 11:30–12:30 | Invited talk |
-| 12:30–14:00 | Lunch |
-| 14:00–15:00 | Invited talk |
-| 15:00–15:30 | Coffee break |
-| 15:30–17:00 | Discussion/contributed session |
-
-## Day 2 — [Date]
+## Monday — Oct 26
 
 | Time | Event |
 |---|---|
-| 09:30–10:30 | Invited talk |
-| 10:30–11:00 | Coffee break |
-| 11:00–12:00 | Invited talk |
-| 12:00–14:00 | Lunch |
-| 14:00–15:00 | Invited talk |
-| 15:00–15:30 | Coffee break |
-| 15:30–16:30 | Closing discussion |
+| 09:30-10:00 | Registration and Welcome |
+| 10:00–11:00 | Sumio Watanabe *(online)* |
+| 11:00–11:15 | Coffee break |
+| 11:15–12:15 | Anne Frühbis-Krüger |
+| 12:15–13:30 | Lunch |
+| 13:30–14:30 | Jules Tsukahara |
+| 14:30–15:00 | Coffee Break |
+| 15:00–16:00 | Anthea Monod |
+| 16:00–17:30 | Working Session |
+| 18:30-??? | Dinner (self-paid) |
+
+## Tuesday — Oct 27
+
+| Time | Event |
+|---|---|
+| 10:00–11:00 | Mathias Drton |
+| 11:00–11:15 | Coffee break |
+| 11:15–12:15 | Dan Bath |
+| 12:15–13:30 | Lunch |
+| 13:30–14:30 | Dimitra Kosta |
+| 14:30–15:00 | Coffee Break |
+| 15:00–16:00 | Edmund Lau |
+| 16:00–17:30 | Open Problem Session |
