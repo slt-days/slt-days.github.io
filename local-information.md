@@ -41,6 +41,6 @@ Suggested hotels:
 
 [Add lunch options, restaurants, cafés, or university canteens.] -->
 
-## Map
+<!-- ## Map
 
-[Open venue in OpenStreetMap](https://karte.openstreetmap.de/#map=13.2/51.05391/13.76402){:target="_blank"}
+[Open venue in OpenStreetMap](https://karte.openstreetmap.de/#map=13.2/51.05391/13.76402){:target="_blank"} -->
