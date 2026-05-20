@@ -4,8 +4,6 @@ title: "Schedule"
 permalink: /schedule/
 ---
 
-# Schedule
-
 The schedule is preliminary and subject to change.
 
 ## Day 1 — [Date]

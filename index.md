@@ -1,10 +1,13 @@
 ---
-layout: single
+layout: splash
 title: "Singular Learning Theory Days"
 permalink: /
+header:
+  overlay_image: /assets/images/header.png
+  overlay_filter: 0.4
+  caption: "Singular Learning Theory Days"
+# excerpt: "A conference on singular learning theory."
 ---
-
-# Singular Learning Theory Days
 
 Welcome to the **Singular Learning Theory Days**, a focused meeting on singular learning theory and related areas in mathematics, statistics, and machine learning.
 

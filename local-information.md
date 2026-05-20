@@ -4,8 +4,6 @@ title: "Local Information"
 permalink: /local-information/
 ---
 
-# Local Information
-
 ## Venue
 
 The conference will take place at:
