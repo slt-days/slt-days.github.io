@@ -17,7 +17,7 @@ The conference will take place at:
 
 ### By train
 
-There are two train stations with long-distance connections: **Dresden Hbf** and **Dresden-Neustadt**. From Dresden Hbf you can take *Tram 8* to *St.-Benno-Gymnasium* where you can change to *Bus 62* taking you to *Dresden Joannstadt* which is a three-minute walk to the institute. From Dresden Neustadt you can take *Tram 6* to *Augsburger Straße* which is a ten-minute walk to the institute.
+There are two train stations with long-distance connections: **Dresden Hbf** and **Dresden-Neustadt**. From Dresden Hbf you can take *Tram 8* to *St.-Benno-Gymnasium* where you can change to *Bus 62* taking you to *Dresden Johannstadt* which is a three-minute walk to the institute. From Dresden Neustadt you can take *Tram 6* to *Augsburger Straße* which is a ten-minute walk to the institute.
 
 ### By plane
 
