@@ -52,8 +52,8 @@ Further practical information is available on the [Local Information](/local-inf
 
 ## Organizers
 
-- [Jiayi Li](https://jl2ml.github.io/){:target="_blank"} (MPI CBG)
-- [Maximilian Wiesmann](https://maximilianwiesmann.github.io/){:target="_blank"} (MPI CBG / MPI PKS / TU Dresden)
+- [Jiayi Li](https://jl2ml.github.io/){:target="_blank"} (CSBD / MPI CBG / TU Dresden)
+- [Maximilian Wiesmann](https://maximilianwiesmann.github.io/){:target="_blank"} (CSBD / MPI CBG / MPI PKS / TU Dresden)
 - [Daniel Windisch](https://sites.google.com/view/danielwindisch){:target="_blank"} (KU Leuven)
 
 Please feel free to contact us in case of questions. 
