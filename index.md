@@ -60,7 +60,12 @@ Please feel free to contact us in case of questions.
 
 ## Funding
 
-We gratefully acknowledge funding by the DFG via the [SPP 2458 Combinatorial Synergies](https://www.combinatorial-synergies.de/){:target="_blank"}.
+We gratefully acknowledge funding by the Max Planck Society, the Max Planck Institute of Molecular Cell Biology and Genetics, and by the DFG via the [SPP 2458 Combinatorial Synergies](https://www.combinatorial-synergies.de/){:target="_blank"}.
+
+<figure class="half">
+  <img src="/assets/images/MPI_CBG_Logo_horizontal_green.png">
+  <img src="/assets/images/logo_CSBD.png">
+</figure>
 
 <figure class="half">
   <img src="/assets/images/BWM-farbig-typo-schwarz.png">
